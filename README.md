@@ -5,17 +5,11 @@ This project documents the complete upgrade of my Acer Aspire V3-575 laptop.
 The goal was to replace the HDD with an SSD, expand RAM, and install Windows 11
 to achieve a faster, more reliable, and optimized system.
 
-## 🎯 Objectives
-- Improve performance (boot time, loading speed, multitasking)
-- Extend the lifespan of the laptop
-- Provide a clear, reproducible guide for my community (CR16, YouTube, etc.)
+## How to disassemble the computer
+1. split all the screws
+2. remove the side cover
+3. Split the screws of the cover
+4. take a butter knife, open the computer and do not turn it on and put the butter knife around
 
-## 🔧 Steps Completed
-1. Removed the HDD and installed a compatible SSD
-2. Added RAM to boost multitasking
-3. Installed Windows 11 via USB
-4. Ran performance tests to validate stability
-
-## 🚀 Results
-The laptop is now faster, smoother, and ready for new creative and technical projects.
+For a clearer tutorial, please watch this video: https://youtu.be/jFGtzY0USGM And to gather the computer, please check the video again
 
